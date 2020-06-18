@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.rouge {
+    color: red;
+}
+.vert {
+    color: green;
+}
+.noir {
+    color: black;
+}
+
+.code {
+    background-color: gray;
+}
+
+.exemple {
+    background-color: lightseagreen;
+}

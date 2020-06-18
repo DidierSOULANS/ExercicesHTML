@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+li {
+    color: blue;
+    background-color: #ff4040;
+    margin: 14px;
+    list-style: square;
+}
+
+ul>li{
+    color: yellow;
+}
+
+#MonId{
+    color: green;
+}
