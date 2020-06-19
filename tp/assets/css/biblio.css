@@ -1,0 +1,10 @@
+tr td:nth-child(1){
+    font-weight: bold;
+}
+tr td:nth-child(2){
+    font-style: italic;
+}
+
+td{
+    text-align: center;
+}
