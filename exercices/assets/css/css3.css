@@ -1,0 +1,27 @@
+div[class^="br"]{
+    color: red;
+}
+
+div[class*="6"]{
+    color: red;
+}
+
+div[class$="5"]{
+    color: green;
+}
+
+div[class|="lo"]{
+    font-style: oblique;
+}
+
+ol li:nth-child(3){
+    color: blue;
+}
+
+ol li:nth-last-child(2){
+    color: red;
+}
+
+input[type=checkbox]:checked+label{
+    color: red;
+}
